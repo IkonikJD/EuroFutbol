@@ -11,7 +11,7 @@ Este proyecto fue creado para el Grado Superior de ASIR, utilizando principalmen
 
 ## Ver Ejemplo en Vivo 📹
 
-Demo Funcional -> https://eurofutboljd.herokuapp.com/docs/clasificacion.php
+Demo Funcional -> <a href="https://eurofutboljd.herokuapp.com/index.php" target="_blank">https://eurofutboljd.herokuapp.com/index.php</a>
 
 ## Documentacion 📚
 
