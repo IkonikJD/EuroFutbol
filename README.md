@@ -9,11 +9,11 @@ Este proyecto fue creado para el Grado Superior de ASIR, utilizando principalmen
 * [Linkedin](https://www.linkedin.com/in/jos%C3%A9-david-prieto-su%C3%A1rez-3979b2213/)
 
 
-# Ver Ejemplo en Vivo 
+# Ver Ejemplo en Vivo 📹
 
 Demo Funcional -> https://eurofutboljd.herokuapp.com/docs/clasificacion.php
 
-# Documentacion 🔧
+# Documentacion 📚
 
 Para una mayor explicacion del funcionamiento de la pagina web, herramientas utilizadas, objetivos de la pagina, guia de navegacion para nuevos usuarios y funciones mas importantes, visiten el siguiente enlace -> https://drive.google.com/file/d/1_Xj7WMGZfRzwazJE2RpafGqseKdCwD5X/view?usp=sharing
 
