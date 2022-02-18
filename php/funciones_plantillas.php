@@ -221,7 +221,7 @@ function crearHeader($directorio, $titulo) {
     function crearPie() {
         ?>
         <!--   Footer    -->
-        <div class="panel-footer"> José David Prieto Suárez © 2020 - <a class="linkspie" href="#">EuroFutbol</a> | <a class="linkspie" href="#">Twitter</a> | <a class="linkspie" href="#">Facebook</a></div>
+        <div class="panel-footer"> José David Prieto Suárez © 2020 - EuroFutbol | <a class="linkspie" target="_blank" href="https://www.linkedin.com/in/jos%C3%A9-david-prieto-su%C3%A1rez-3979b2213/">Linkedin</a> | <a class="linkspie" target="_blank" href="https://github.com/IkonikJD/EuroFutbol">Github</a></div>
     </body>
     </html>
 
