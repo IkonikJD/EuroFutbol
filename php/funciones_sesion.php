@@ -8,7 +8,7 @@
 
 function conexion() {
     //Crea la conexion con la base de datos
-    $conexion = mysqli_connect("localhost", "root", "", "web")
+    $conexion = mysqli_connect("host", "usuario", "contraseña", "nombre_basededatos")
             or die("No se puede conectar con el servidor");
     return $conexion;
 }
