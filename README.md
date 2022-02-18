@@ -15,7 +15,7 @@ Demo Funcional -> https://eurofutboljd.herokuapp.com/docs/clasificacion.php
 
 ## Documentacion 📚
 
-Para una mayor explicacion del funcionamiento de la pagina web, herramientas utilizadas, objetivos de la pagina, guia de navegacion para nuevos usuarios y funciones mas importantes, visiten el siguiente enlace -> https://drive.google.com/file/d/1_Xj7WMGZfRzwazJE2RpafGqseKdCwD5X/view?usp=sharing
+Para una mayor explicacion del funcionamiento de la pagina web, herramientas utilizadas, objetivos de la pagina, guia de navegacion para nuevos usuarios y funciones mas importantes, visiten el siguiente enlace: https://drive.google.com/file/d/1_Xj7WMGZfRzwazJE2RpafGqseKdCwD5X/view?usp=sharing
 
 
 ## Licencia 📄
